@@ -57,10 +57,51 @@ Controle Plane
 Data plane 
 
 
+Volnarability VS Threats  
+
+Threat + No Vulnerability = no risk
+
+Vulnarability + no Threat = no risk 
 
 
 
+Accounting = Logging 
 
+
+Catigories of controle 
+
+Technical = Hardware and softwear (AV, Firewalls IDS)
+ 
+Managerial/Administration Controls = Risk assesment s  
+
+Operations = Procedures, Training  
+
+Physacal = Real world measures (Fence, guards)  
+
+................
+
+Controle types 
+
+Prevent = proactive measuers (Firewall)
+
+Deter = Discourage (A lock, a sign)
+
+Detect = see it happen (Security cam, IDS)  
+
+Corrective = Midagate damage/fix the damage.
+
+Compensating = use a bad system but add something on top to do your best (vpn on top of wpa2 instead of just wpa3) 
+
+Directive = Policy  
+
+
+
+.......................
+
+
+Controle plane = Framework 
+
+Data plane = Enforcing 
 
 
 
